@@ -4,7 +4,7 @@
         "ne": [46.9629, 7.466357],
         "sw": [46.9429, 7.437958]
     },
-    "server": "https://your-map-server.herokuapp.com",
+    "server": "https://pogoraidsnrue.herokuapp.com",
     "whatsapp": {
         "sender": "41791234567",
         "sender_pw": "3jHkhGHVIJF4dDIBIkhbjg87jkbb=",
